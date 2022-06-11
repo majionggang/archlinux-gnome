@@ -1,0 +1,12 @@
+arch-install-scripts
+base
+gnome
+linux
+linux-firmware
+mkinitcpio
+mkinitcpio-archiso
+networkmanager
+noto-fonts-cjk
+sudo
+syslinux
+vim
