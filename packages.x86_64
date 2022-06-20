@@ -7,6 +7,7 @@ mkinitcpio
 mkinitcpio-archiso
 networkmanager
 noto-fonts-cjk
+ntfs-3g
 sudo
 syslinux
 vim
